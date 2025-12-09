@@ -17,30 +17,30 @@ This repository focuses primarily on **C++**, **Golang**, and **Python**.
 ## ⚡ C++ High Frequency Trading (HFT) & Quant
 *Focus: Low Latency, Market Making, Algo Trading.*
 
-| Company | Role | Location | Stack / Keywords | Status | Application |
+| Company | Role | Location | Stack / Keywords | Period | Application |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Hudson River Trading | SWE Intern | NYC / London | C++, Python,  | 🟢 Open | [Apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026/) |
+| Hudson River Trading | SWE Intern | NYC / London | C++, Python,  | Summer 2026 | [Apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026/) |
 
 ## 💻 C++ Software Engineering
 *Focus: Systems, Embedded, GameDev, General SWE.*
 
-| Company | Role | Location | Stack / Keywords | Status | Application |
+| Company | Role | Location | Stack / Keywords | Period | Application |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Example Tech | System Intern | Remote | C++, Linux | 🟢 Open | [Apply](#) |
+| Example Tech | System Intern | Remote | C++, Linux | Summer 2026 | [Apply](#) |
 
 ## 🐹 Go (Golang) Engineering
 *Focus: Backend, Cloud Native, Distributed Systems.*
 
-| Company | Role | Location | Stack / Keywords | Status | Application |
+| Company | Role | Location | Stack / Keywords | Period | Application |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Example Cloud | Backend Intern | SF / Remote | Go, Kubernetes | 🟢 Open | [Apply](#) |
+| Example Cloud | Backend Intern | SF / Remote | Go, Kubernetes | Summer 2026 | [Apply](#) |
 
 ## 🐍 Python Engineering & Data
 *Focus: Backend, ML Infrastructure, Data Engineering.*
 
-| Company | Role | Location | Stack / Keywords | Status | Application |
+| Company | Role | Location | Stack / Keywords | Period | Application |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Example AI | MLE Intern | Remote | Python, PyTorch | 🟢 Open | [Apply](#) |
+| Example AI | MLE Intern | Remote | Python, PyTorch | Summer 2026 | [Apply](#) |
 
 ---
 
