@@ -19,7 +19,7 @@ This repository focuses primarily on **C++**, **Golang**, and **Python**.
 
 | Company | Role | Location | Stack / Keywords | Status | Application |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| hudsonrivertrading | SWE Intern | NYC / London | C++, Python,  | 🟢 Open | [Apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026/) |
+| Hudson River Trading | SWE Intern | NYC / London | C++, Python,  | 🟢 Open | [Apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026/) |
 
 ## 💻 C++ Software Engineering
 *Focus: Systems, Embedded, GameDev, General SWE.*
