@@ -7,7 +7,7 @@ This repository focuses primarily on **C++**, **Golang**, and **Python**.
 ## 📋 Table of Contents
 
 - [⚡ C++ High Frequency Trading (HFT) & Quant](#-c-high-frequency-trading-hft--quant)
-- [💻 C++ Software Engineering](#-c-software-engineering-swe)
+- [💻 C++ Software Engineering | Developing](#-c-software-engineering-swe-swd)
 - [🐹 Go (Golang) Engineering](#-go-golang-engineering)
 - [🐍 Python Engineering & Data](#-python-engineering--data)
 - [📝 How to Contribute](#-how-to-contribute)
@@ -24,12 +24,14 @@ This repository focuses primarily on **C++**, **Golang**, and **Python**.
 | IMC Trading | SWE Intern | Netherlands | C++/Java | Summer 2026 | [Apply](imc.com/us/careers/jobs/4563168101#:~:text=,prior%20knowledge%20or%20experience%20is) | Applied 🟨 |
 
 
-## 💻 C++ Software Engineering
+## 💻 C++ Software Engineering / Developing
 *Focus: Systems, Embedded, GameDev, General SWE.*
 
 | Company | Role | Location | Stack / Keywords | Period | Application | Status | 
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Jetbrains | SWE Intern | Germany | C++, Kotlin | Summer 2026 | [Apply](https://internship.jetbrains.com/admissions/112) | Not applied 🟦 |
+| Amazom | SWD Linux Intern | Cambridge |  | Summer 2026 | [Apply](https://www.amazon.jobs/content/en/career-programs/university/internships-for-students?employment-type%5B%5D=Intern&category%5B%5D=Software+Development) | Applied 🟨 |
+
 
 ## 🐹 Go (Golang) Engineering
 *Focus: Backend, Cloud Native, Distributed Systems.*
