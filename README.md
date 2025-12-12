@@ -33,6 +33,7 @@ This repository focuses primarily on **C++**, **Golang**, and **Python**.
 | Amazom | SWD Linux Intern | Cambridge |  | Summer 2026 | [Apply](https://www.amazon.jobs/content/en/career-programs/university/internships-for-students?employment-type%5B%5D=Intern&category%5B%5D=Software+Development) | Applied 🟨 |
 | Amazom | SWE | Luxembourg | C++ | Summer 2026 | [Apply](https://www.amazon.jobs/es/jobs/3073100/2026-software-dev-engineer-intern-luxembourg) | Applied 🟨 |
 | Amazom | SWE | Germany, Berlim | C++ | Summer 2026 | [Apply](https://www.amazon.jobs/jobs/3074226) | Applied 🟨 |
+| Amazom | SWE | Barcelona | C++ | Summer 2026 | [Apply](https://www.amazon.jobs/es/jobs/3072090/2026-software-dev-engineer-intern-spain) | Applied 🟨 |
 
 
 ## 🐹 Go (Golang) Engineering
