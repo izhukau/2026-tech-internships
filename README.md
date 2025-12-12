@@ -17,30 +17,34 @@ This repository focuses primarily on **C++**, **Golang**, and **Python**.
 ## ⚡ C++ High Frequency Trading (HFT) & Quant
 *Focus: Low Latency, Market Making, Algo Trading.*
 
-| Company | Role | Location | Stack / Keywords | Period | Application |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Hudson River Trading | SWE Intern | NYC / London | C++, Python,  | Summer 2026 | [Apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026/) |
+| Company | Role | Location | Stack / Keywords | Period | Application | Status | 
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Hudson River Trading | SWE Intern | NYC / London | C++/Python  | Summer 2026 | [Apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026/) | Applied 🟨 |
+| Optiver | SWE Intern | Netherlands | C++ | Summer 2026 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7897074002/#:~:text=During%20the%20ten%20week%20internship%2C,You%20will) | Applied 🟨 |
+| IMC Trading | SWE Intern | Netherlands | C++/Java | Summer 2026 | [Apply](imc.com/us/careers/jobs/4563168101#:~:text=,prior%20knowledge%20or%20experience%20is) | Applied 🟨 |
+
 
 ## 💻 C++ Software Engineering
 *Focus: Systems, Embedded, GameDev, General SWE.*
 
-| Company | Role | Location | Stack / Keywords | Period | Application |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Example Tech | System Intern | Remote | C++, Linux | Summer 2026 | [Apply](#) |
+| Company | Role | Location | Stack / Keywords | Period | Application | Status | 
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Jetbrains | SWE Intern | Germany | C++, Kotlin | Summer 2026 | [Apply](https://internship.jetbrains.com/admissions/112) | Not applied 🟦 |
 
 ## 🐹 Go (Golang) Engineering
 *Focus: Backend, Cloud Native, Distributed Systems.*
 
-| Company | Role | Location | Stack / Keywords | Period | Application |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Example Cloud | Backend Intern | SF / Remote | Go, Kubernetes | Summer 2026 | [Apply](#) |
+| Company | Role | Location | Stack / Keywords | Period | Application | Status | 
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Example Cloud | Backend Intern | SF / Remote | Go, Kubernetes | Summer 2026 | [Apply](#) | Applied |
 
 ## 🐍 Python Engineering & Data
 *Focus: Backend, ML Infrastructure, Data Engineering.*
 
-| Company | Role | Location | Stack / Keywords | Period | Application |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Example AI | MLE Intern | Remote | Python, PyTorch | Summer 2026 | [Apply](#) |
+
+| Company | Role | Location | Stack / Keywords | Period | Application | Status | 
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Example AI | MLE Intern | Remote | Python, PyTorch | Summer 2026 | [Apply](#) | Applied |
 
 ---
 
