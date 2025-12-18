@@ -6,9 +6,8 @@ This repository focuses primarily on **C++**, **Golang**, and **Python**.
 
 ## 📋 Table of Contents
 
-- [⚡ C++ High Frequency Trading (HFT) & Quant](#-c-high-frequency-trading-hft--quant)
-- [💻 C++ Software Engineering | Developing](#-c-software-engineering-swe-swd)
-- [🐹 Go (Golang) Engineering](#-go-golang-engineering)
+- [⚡ High Frequency Trading (HFT) & Quant](#-c-high-frequency-trading-hft--quant)
+- [💻 Software Engineering | Developing](#-c-software-engineering-swe-swd)
 - [🐍 Python Engineering & Data](#-python-engineering--data)
 - [📝 How to Contribute](#-how-to-contribute)
 
@@ -24,12 +23,14 @@ This repository focuses primarily on **C++**, **Golang**, and **Python**.
 | IMC Trading | SWE Intern | Netherlands | C++/Java | Summer 2026 | [Apply](imc.com/us/careers/jobs/4563168101#:~:text=,prior%20knowledge%20or%20experience%20is) | Applied 🟨 |
 
 
-## 💻 C++ Software Engineering / Developing
+## 💻 Software Engineering / Developing
 *Focus: Systems, Embedded, GameDev, General SWE.*
 
 | Company | Role | Location | Stack / Keywords | Period | Application | Status | 
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Jetbrains | SWE Intern | Germany | C++, Kotlin | Summer 2026 | [Apply](https://internship.jetbrains.com/admissions/112) | Not applied 🟦 |
+| Jetbrains (C/Python cross-language completion) | SWE Intern | Remote | C++, Python | Summer 2026 | [Apply](https://internship.jetbrains.com/projects/1713) | Not applied 🟦 |
+| Jetbrains (RustRover Solana Integration) | SWE Intern | Remote | Kotlin, Rust, Web3 | Summer 2026 | [Apply](https://internship.jetbrains.com/projects/1721) | Not applied 🟦 |
+| Jetbrains (Multi-language static analysis plugin) | SWE Intern | Remote | Kotlin, Java | Summer 2026 | [Apply](https://internship.jetbrains.com/projects/1715) | Not applied 🟦 |
 | Amazom | SWD Linux Intern | Cambridge |  | Summer 2026 | [Apply](https://www.amazon.jobs/content/en/career-programs/university/internships-for-students?employment-type%5B%5D=Intern&category%5B%5D=Software+Development) | Applied 🟨 |
 | Amazom | SWE | Luxembourg | C++ | Summer 2026 | [Apply](https://www.amazon.jobs/es/jobs/3073100/2026-software-dev-engineer-intern-luxembourg) | Rejected(visa)🟥 |
 | Amazom | SWE | Germany, Berlim | C++ | Summer 2026 | [Apply](https://www.amazon.jobs/jobs/3074226) | Rejected(visa)🟥 |
@@ -37,14 +38,6 @@ This repository focuses primarily on **C++**, **Golang**, and **Python**.
 | Amazom | SWE | Netherlands, Amsterdam | C++ | Summer 2026 | [Apply](https://www.amazon.jobs/es/jobs/3073094/2026-software-dev-engineer-intern-netherlands) | Rejected(visa)🟥 |
 | Google | SWE | UK, London | C++/Java | Summer 2026 | Closed | Applied 🟨 |
 | Jane Street | SWE | UK, London | C++ | Summer 2026 | [Apply](https://www.janestreet.com/join-jane-street/position/7961782002/) | Applied 🟨 |
-
-
-## 🐹 Go (Golang) Engineering
-*Focus: Backend, Cloud Native, Distributed Systems.*
-
-| Company | Role | Location | Stack / Keywords | Period | Application | Status | 
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Example Cloud | Backend Intern | SF / Remote | Go, Kubernetes | Summer 2026 | [Apply](#) | Applied |
 
 ## 🐍 Python Engineering & Data
 *Focus: Backend, ML Infrastructure, Data Engineering.*
