@@ -38,6 +38,7 @@ This repository focuses primarily on **C++**, **Golang**, and **Python**.
 | Amazom | SWE | Netherlands, Amsterdam | C++ | Summer 2026 | [Apply](https://www.amazon.jobs/es/jobs/3073094/2026-software-dev-engineer-intern-netherlands) | Rejected(visa)🟥 |
 | Google | SWE | UK, London | C++/Java | Summer 2026 | Closed | Applied 🟨 |
 | Jane Street | SWE | UK, London | C++ | Summer 2026 | [Apply](https://www.janestreet.com/join-jane-street/position/7961782002/) | Applied 🟨 |
+| Revolute | SWE | Spain, Barcelona | Python | Summer 2026 | [Apply](https://revolut.la/4nhCL24) | Applied 🟨 |
 
 ## 🐍 Python Engineering & Data
 *Focus: Backend, ML Infrastructure, Data Engineering.*
