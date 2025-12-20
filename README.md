@@ -21,6 +21,7 @@ This repository focuses primarily on **C++**, **Golang**, and **Python**.
 | Hudson River Trading | SWE Intern | NYC / London | C++/Python  | Summer 2026 | [Apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026/) | Applied 🟨 |
 | Optiver | SWE Intern | Netherlands | C++ | Summer 2026 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7897074002/#:~:text=During%20the%20ten%20week%20internship%2C,You%20will) | Applied 🟨 |
 | IMC Trading | SWE Intern | Netherlands | C++/Java | Summer 2026 | [Apply](imc.com/us/careers/jobs/4563168101#:~:text=,prior%20knowledge%20or%20experience%20is) | Applied 🟨 |
+| Keyrock | C++ - Engineer | Remote | C++/Rust | Summer 2026 | [Apply](https://jobs.ashbyhq.com/keyrock?departmentId=f2274d61-aac1-4e42-bdb6-7b70388afe52&locationId=0032b150-5a2d-4198-ae92-c18e254b6918) | Applied 🟨 |
 
 
 ## 💻 Software Engineering / Developing
